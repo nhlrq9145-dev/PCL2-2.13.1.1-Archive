@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "software": {
+    "name": "Plain Craft Launcher 2 (PCL2)",
+    "version": "2.13.1.1",
+    "original_author": "龙腾猫跃 (LTCat / Meloong)"
+  },
+  "archive": {
+    "repository_url": "https://github.com/nhlrq9145-dev/PCL2-2.13.1.1-Archive",
+    "release_tag": "v2.13.1.1",
+    "relationship": "Unofficial independent historical mirror; no official affiliation or endorsement",
+    "modified": false,
+    "recompiled": false
+  },
+  "upstream": {
+    "repository_url": "https://github.com/Meloong-Git/PCL",
+    "commit": "904de2af71533a195a41a9802d2c9b05c8bb23ac",
+    "commit_title": "2.13.1.1 正式版",
+    "commit_timestamp_utc": "2026-08-07T11:54:54Z",
+    "commit_url": "https://github.com/Meloong-Git/PCL/commit/904de2af71533a195a41a9802d2c9b05c8bb23ac",
+    "source_tree_url": "https://github.com/Meloong-Git/PCL/tree/904de2af71533a195a41a9802d2c9b05c8bb23ac",
+    "original_filename": "最新正式版.zip",
+    "download_url": "https://raw.githubusercontent.com/Meloong-Git/PCL/904de2af71533a195a41a9802d2c9b05c8bb23ac/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip"
+  },
+  "artifact": {
+    "filename": "PCL2-official-2.13.1.1.zip",
+    "size_bytes": 2572363,
+    "sha256": "5321F0754137FBDD2C5C1420DB868B8E516BCD5D4ED94729D00813F1597C4B46"
+  },
+  "licence": {
+    "snapshot_file": "UPSTREAM-LICENCE.txt",
+    "snapshot_source_url": "https://raw.githubusercontent.com/Meloong-Git/PCL/904de2af71533a195a41a9802d2c9b05c8bb23ac/LICENCE",
+    "snapshot_sha256": "82A74E444215364581D20B6D51F3D5A3AB3C493FCA8F9058FA3E89F657CA80F4",
+    "full_terms_url": "https://shimo.im/docs/rGrd8pY8xWkt6ryW",
+    "historical_full_licence_url": "https://github.com/Meloong-Git/PCL/blob/fd7b722346523d9574678a8a4a02928d31cd1e0c/LICENCE",
+    "note": "Original author terms apply. The Shimo full text could not be read during archive preparation; no claim of complete licence verification or permission for further redistribution is made. The historical text is provided for reference, subject to author clarification."
+  },
+  "verification": {
+    "runtime": "Not verified as part of archive preparation",
+    "windows_11_startup": "Not verified",
+    "minecraft_version_list": "Not verified",
+    "minecraft_download": "Not verified",
+    "mod_loader_installation": "Not verified",
+    "offline_entry": "Not verified",
+    "game_launch_and_play": "Not verified",
+    "artifact_size_and_sha256": "Verified against the fixed upstream original ZIP values"
+  }
+}
